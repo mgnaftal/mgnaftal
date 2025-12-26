@@ -1,2 +1,1 @@
-Hello! My name is Mitch and I am new to Computer Science/Coding/HTML/CSS/JAVA/Python etc....
-I am open and interested in learning I can and would love to collaborte with like-minded people! 
+Hello! My name is Mitch and I am currently building a technical portfolio in Python, MATLAB, and CAD with a long-term goal of working in aerospace engineering. 
